@@ -129,6 +129,8 @@
             }
             .content{
                 max-width: 630px;
+		//test
                 min-width: 630px;
             }
+
         }
